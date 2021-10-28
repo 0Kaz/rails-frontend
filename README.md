@@ -2,8 +2,9 @@
 # Watchlist Cheatsheet
 
 
-:: [select2](https://kitt.lewagon.com/knowledge/tutorials/select2)
-:: [sweetalert](https://kitt.lewagon.com/knowledge/tutorials/sweetalert)
+:point_right:	 [select2](https://kitt.lewagon.com/knowledge/tutorials/select2)
+
+:point_right:	[sweetalert](https://kitt.lewagon.com/knowledge/tutorials/sweetalert)
 
 ***Content***
  - [Reminder](#reminder)
